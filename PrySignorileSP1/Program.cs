@@ -16,7 +16,7 @@ namespace PrySignorileSP1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmRespuestos());
+            Application.Run(new frmMascota());
         }
     }
 }
